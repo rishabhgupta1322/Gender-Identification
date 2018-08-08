@@ -12,7 +12,7 @@ Prerequisites :-
   
   - A 64-bit  operating system(like Ubuntu, Windows or mac.......)
   - Python 3.6
-    - For Windows you can install Anaconda.
+    - For Windows you can install Anaconda or python IDE.
     - For ubuntu you can either work on conda or your terminal.
   - Tensorflow
 
@@ -20,11 +20,11 @@ Running :-
   
   - On Ubuntu :-
   
-    - $ python3.6 <Program file>
+    - $ python3.6 /<Program file>
   
   - On Ide :-
   
   - Open any Python3 Ide and Run the program.
 
     - First set path of compiler.
-    - Type Python3.6 <program file>
+    - Type Python3.6 /<program file>
