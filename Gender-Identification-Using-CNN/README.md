@@ -27,4 +27,4 @@ Running :-
   - Open any Python3 Ide and Run the program.
 
     - First set path of compiler.
-    - Type Python3.6 &lt;program file&gt;
+    - Type Python3.6 &lt;Program file&gt;
