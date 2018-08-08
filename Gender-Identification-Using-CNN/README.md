@@ -2,7 +2,7 @@
 
 Getting Started :-
 
-  This Project aims to find gender of a person using the availabe [gender and age dataset](https://drive.google.com/open?id=1dLZaJ_1mVt4m99vk7S3Kf6EcPJ-Vsmdq)
+  This Project aims to find gender of a person using the availabe [gender and age dataset.](https://drive.google.com/open?id=1dLZaJ_1mVt4m99vk7S3Kf6EcPJ-Vsmdq)
   
   - Gender identification using CNN in Python.
   
@@ -20,11 +20,11 @@ Running :-
   
   - On Ubuntu :-
   
-    - $ python3.6 /<Program file>
+    - $ python3.6 `<Program file>`
   
   - On Ide :-
   
   - Open any Python3 Ide and Run the program.
 
     - First set path of compiler.
-    - Type Python3.6 /<program file>
+    - Type Python3.6 `<program file>`
