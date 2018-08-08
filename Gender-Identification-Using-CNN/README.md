@@ -20,11 +20,11 @@ Running :-
   
   - On Ubuntu :-
   
-    - $ python3.6 `<Program file>`
+    - $ python3.6 &lt;Program file&gt;
   
   - On Ide :-
   
   - Open any Python3 Ide and Run the program.
 
     - First set path of compiler.
-    - Type Python3.6 `<program file>`
+    - Type Python3.6 &lt;program file&gt;
