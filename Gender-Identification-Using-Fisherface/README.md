@@ -1,4 +1,4 @@
-# Gender-Identification-Using-Fishaerface
+# Gender-Identification-Using-Fisherface
 
 ## Getting Started :-
 
