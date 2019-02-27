@@ -4,10 +4,10 @@ import pandas as pd
 import numpy as np
 from google.colab import files
 from __future__ import print_function
-import keras
+from keras.models import Sequential
 from keras.utils import np_utils
 import matplotlib.pyplot as plt
-from keras.layers.convolutional import Convolution2D, MaxPooling2D
+from keras.layers.convolutional import Conv2D, MaxPooling2D
 from keras.layers import Activation, Flatten, Dense, Dropout
 from keras import optimizers
 from keras.layers.normalization import BatchNormalization
@@ -21,7 +21,7 @@ for fn in uploaded.keys():
       name=fn, length=len(uploaded[fn])))
       
 #Reading data from csv file and store it into npy file
-data = pd.read_csv(io.StringIO(uploaded['wiki5.csv'].decode('utf-8')))
+data = pd.read_csv(io.StringIO(uploaded['gender data.csv'].decode('utf-8')))
 np.save('data.npy',data)
 
 #Loading dataset
